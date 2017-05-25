@@ -11,7 +11,7 @@
 
 		<finalName>WebDemoForJenkins</finalName>
 
-		<!-- 开启资源文件过滤 -->
+		<!-- å¼€å�¯èµ„æº�æ–‡ä»¶è¿‡æ»¤ -->
 		<resources>
 			<resource>
 				<directory>${project.basedir}/src/main/resources</directory>
