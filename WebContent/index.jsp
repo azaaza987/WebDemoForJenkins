@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello, This is the first page of application 
+Test for Jenkins!!!
 </body>
 </html>
