@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Test for Jenkins!!!!!!!!!!!!!!!!!!!!!!
+This page used to test Jenkins auto checking file from Version Control tool (GitHub), and build project based on schedule in Jenkins. 
+And hot deploy WAR file to Tomcat server. 
 
-22222222222222222
+Test 1
 </body>
 </html>
