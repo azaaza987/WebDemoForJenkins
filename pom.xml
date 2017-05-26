@@ -56,7 +56,8 @@
 				
 				
 				<configuration>
-					<webXml>WebContent\WEB-INF\web.xml</webXml>   
+					<webXml>WebContent\WEB-INF\web.xml</webXml>  
+					<warSourceDirectory>WebContent</warSourceDirectory>
 					<webResources>
 						<resource>
 							<directory>${project.basedir}/lib</directory>
