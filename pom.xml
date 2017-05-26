@@ -96,7 +96,7 @@
 						<configuration>
 							<tasks>
 								<echo message="Copy war file to Tomcat webapps...." />
-								<copy file="target/WebDemoForJenkins.war" todir="C:\Program Files\Apache Software Foundation\Tomcat 7.0/webapps"
+								<copy file="target/WebDemoForJenkins.war" todir="C:/Program Files/Apache Software Foundation/Tomcat 7.0/webapps"
 									overwrite="true" />
 								<echo message="Copy config file to appconfig...." />
 								<!-- <copy todir="D:/soft/apache-tomcat-8.0.36/appconfig" preservelastmodified="true" 
