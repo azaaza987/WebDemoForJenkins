@@ -12,7 +12,7 @@ And hot deploy WAR file to Tomcat server.
 
 Test 1
 
-Test file change
+Test file change2
     
 </body>
 </html>
