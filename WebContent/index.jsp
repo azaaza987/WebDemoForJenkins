@@ -13,5 +13,7 @@ And hot deploy WAR file to Tomcat server.
 Test 1
 
 Test file change
+    
+Test pull file from github  
 </body>
 </html>
