@@ -11,5 +11,7 @@ This page used to test Jenkins auto checking file from Version Control tool (Git
 And hot deploy WAR file to Tomcat server. 
 
 Test 1
+
+Test file change
 </body>
 </html>
