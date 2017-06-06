@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello, This is the first page of application 
+This page used to test Jenkins auto checking file from Version Control tool (GitHub), and build project based on schedule in Jenkins. 
+And hot deploy WAR file to Tomcat server. 
+
+Test 1
 </body>
 </html>
